@@ -7,9 +7,7 @@ The first line contains an integer T, denoting the number of test cases.
 Each test case consists of a string S, which consists of only lower case letters.
 
 Output:
-For each test case, print the answer to the given problem.
-
-Ans  --->'''
+For each test case, print the answer to the given problem.'''
 
 t=int(input())
 for i in range(t):
